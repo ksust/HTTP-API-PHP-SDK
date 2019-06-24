@@ -1,0 +1,13 @@
+{
+    "name": "ksust/HTTP-API-SDK",
+    "description": "HTTP-API-PHP-SDK",
+    "type": "library",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "ksust",
+            "email": "admin@ksust.com"
+        }
+    ],
+    "require": {}
+}
