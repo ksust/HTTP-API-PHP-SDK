@@ -9,6 +9,7 @@
  * Contact: 开发者邮箱 admin@ksust.com
  */
 header("Content-Type:text/html;Charset=utf8");//设置编码，必需
+namespace ksust\HTTPSDK;
 class HTTPSDK
 {
     //全局配置
