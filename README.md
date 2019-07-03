@@ -1,6 +1,6 @@
 # HTTP-API-SDK
-**包含PHP/Java/Python/NodeJS四种编程语言SDK。**
-
+**包含PHP/Java/Python/NodeJS四种编程语言SDK。**   
+**composer安装：composer require ksust/http-api-sdk**
 
 | 名称 | 编程语言 | 最新版本 | 适配插件版本 | 备注 |   
 | ------ | ------ | ------| ------ | ------ |   
